@@ -1,10 +1,10 @@
----
+<!-- ---
 layout: page
 title: submenus
 nav: true
 nav_order: 8
 dropdown: true
-children:
+<!-- children:
   - title: publications
     permalink: /publications/
   - title: divider
@@ -13,4 +13,4 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
----
+--- -->
