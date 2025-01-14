@@ -6,7 +6,7 @@ subtitle: Full Professor, Naif Arab University for Security Sciences.
 
 profile:
   align: right
-  image: liufan_pic.jpg 
+  image: fan_pic.jpg 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Tel: +966 11 2463444 Ext. 3267</p>
