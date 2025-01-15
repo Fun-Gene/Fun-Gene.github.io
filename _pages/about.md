@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Full Professor |Forensic Sciences | Bioinformatics**.
+subtitle: Full Professor |Forensic Sciences | Bioinformatics.
 
 profile:
   align: right
