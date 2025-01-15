@@ -1,9 +1,10 @@
 github_users:
   - Fun-Gene
-  - ringku09
-  - TianTT
-  - yxkwgp
-  - KelvinTao
+  # - ringku09
+  # - TianTT
+  # - liyi522
+  # - yxkwgp
+  # - KelvinTao
   
 repo_description_lines_max: 2
 
