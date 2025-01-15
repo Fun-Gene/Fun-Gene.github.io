@@ -1,16 +1,20 @@
 github_users:
   - Fun-Gene
-
+  - ringku09
+  - TianTT
+  - yxkwgp
+  - KelvinTao
+  
 repo_description_lines_max: 2
 
 github_repos:
-  - Fun-Gene/fastQTLmapping
-  - Fun-Gene/toxassay
-  - Fun-Gene/CGWAS
-  - Fun-Gene/Ancestry_46MH
+  - TianTTL/fastQTLmapping
+  - ringku09/toxassay
+  - TianTTL/CGWAS
+  - yxkwgp/Ancestry_46MH
   - Fun-Gene/EpigeneticDrift
-  - Fun-Gene/EarPhenotyping
+  - liyi522/EarPhenotyping
   - Fun-Gene/PieMap
-  - Fun-Gene/HAPP_EC
+  - KelvinTao/HAPP_EC
   - Fun-Gene/NormalAprroximation
     
