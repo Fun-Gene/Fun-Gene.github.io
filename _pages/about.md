@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Full Professor, Naif Arab University for Security Sciences.
+subtitle: **Full Professor |Forensic Sciences | Bioinformatics**.
 
 profile:
   align: right
