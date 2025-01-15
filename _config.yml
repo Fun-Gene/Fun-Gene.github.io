@@ -323,6 +323,7 @@ filtered_bibtex_keywords:
     code,
     google_scholar_id,
     html,
+    url,
     inspirehep_id,
     pdf,
     poster,
