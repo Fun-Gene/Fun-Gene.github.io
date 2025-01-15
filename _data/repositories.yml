@@ -1,14 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Fun-Gene
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Fun-Gene/fastQTLmapping
+  - Fun-Gene/toxassay
+  - Fun-Gene/CGWAS
+  - Fun-Gene/Ancestry_46MH
+  - Fun-Gene/EpigeneticDrift
+  - Fun-Gene/EarPhenotyping
+  - Fun-Gene/PieMap
+  - Fun-Gene/HAPP_EC
+  - Fun-Gene/NormalAprroximation
+    
