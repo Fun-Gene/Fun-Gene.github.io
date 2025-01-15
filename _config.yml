@@ -276,7 +276,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Liu]
-  first_name: [Fan]
+  first_name: ["F. Liu", "F Liu"]
 
   style: apa
   locale: en
