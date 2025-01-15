@@ -2,10 +2,10 @@
 layout: page
 title: people
 permalink: /projects/
-description: Team and alumni
+description: Members: Team and alumni
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Current (MSc), Current (PhD), Alumni (MSc), Alumni (PhD)]
 horizontal: false
 ---
 
