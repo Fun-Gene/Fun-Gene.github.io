@@ -28,7 +28,7 @@ ninja.data = [{
           description: "Teaching materials",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-code",
           title: "code",
@@ -101,6 +101,16 @@ ninja.data = [{
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tao_phd_alm/";
+            },},{id: "teaching-md-masud-rana",
+          title: 'Md. Masud Rana',
+          description: "Genetic Epidemiology",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/big_teaching/";
+            },},{id: "teaching-md-masud-rana",
+          title: 'Md. Masud Rana',
+          description: "Forensic Genetics",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/nassu_teaching/";
             },},{
         id: 'social-email',
         title: 'email',
