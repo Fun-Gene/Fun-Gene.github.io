@@ -3,8 +3,8 @@ layout: page
 title: Genetic Epidemiology
 description: >
   Genetic epidemiology is a multidisciplinary field that combines principles from Genetics, Epidemiology, Biostatistics and Molecular biology.
+  <br><strong>Focus Areas:</strong>
   </ul>
-    <strong>Focus Areas:</strong>
     <li>Study the role of genetic factors and their interaction with environmental factors in the occurrence and distribution of diseases within populations.</li>
     <li>Identify genetic variations that influence disease risk and progression.</li>
   </ul>
