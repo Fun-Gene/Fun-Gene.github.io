@@ -201,6 +201,8 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _data/cv.ylm
+  - assets/json/resume.json
   - _pages/blog.md
   - _posts/
   - assets/jupyter/blog.ipynb
