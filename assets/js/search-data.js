@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Team and alumni",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-code",
           title: "code",
           description: "We aim to open-source our research to foster transparency, collaboration, and reproducibility.",
