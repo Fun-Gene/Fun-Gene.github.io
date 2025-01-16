@@ -204,6 +204,7 @@ exclude:
   - _pages/blog.md
   - _posts/
   - assets/jupyter/blog.ipynb
+  - assets/json/resume.json
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -211,11 +212,12 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
-  # - _data/cv.ylm
-  # - _includes/cv/
-  # - _includes/resume/
-  # - _layouts/cv.liquid
-  # - assets/json/
+
+# - _data/cv.ylm
+# - _includes/cv/
+# - _includes/resume/
+# - _layouts/cv.liquid
+# - assets/json/
   
 # Plug-ins
 plugins:
