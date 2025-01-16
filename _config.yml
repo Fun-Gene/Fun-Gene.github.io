@@ -204,6 +204,7 @@ exclude:
   - _data/cv.ylm
   - _includes/cv/
   - _includes/resume/
+  - _layouts/cv.liquid
   - assets/json/
   - _pages/blog.md
   - _posts/
