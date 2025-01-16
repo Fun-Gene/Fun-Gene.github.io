@@ -4,7 +4,7 @@ permalink: /talks/
 title: talks
 description: Slides from some of my talks. 
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 I'll try to occasionally post some of the slides of my talks, in a way that there's not too much overlap.
 

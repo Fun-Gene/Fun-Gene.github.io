@@ -4,7 +4,7 @@ title: people
 permalink: /projects/
 description: Team and alumni
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [Current (MSc), Current (PhD), Alumni (MSc), Alumni (PhD)]
 horizontal: false
 ---
