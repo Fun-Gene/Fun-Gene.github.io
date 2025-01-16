@@ -108,9 +108,9 @@ ninja.data = [{
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tao_phd_alm/";
-            },},{id: "teaching-genetic-epidemiology",
-          title: 'Genetic Epidemiology',
-          description: "Genetic epidemiology is a multidisciplinary field that combines principles from genetics, epidemiology, biostatistics, and molecular biology to study the role of genetic factors and their interaction with environmental factors in the occurrence and distribution of diseases within populations. Its primary goal is to identify genetic variations that influence disease risk and progression.",
+            },},{id: "teaching-",
+          title: '',
+          description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/big_teaching/";
             },},{id: "teaching-population-genetics",
