@@ -108,14 +108,19 @@ ninja.data = [{
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tao_phd_alm/";
-            },},{id: "teaching-md-masud-rana",
-          title: 'Md. Masud Rana',
-          description: "Genetic Epidemiology",
+            },},{id: "teaching-genetic-epidemiology",
+          title: 'Genetic Epidemiology',
+          description: "Genetic epidemiology is a multidisciplinary field that combines principles from genetics, epidemiology, biostatistics, and molecular biology to study the role of genetic factors and their interaction with environmental factors in the occurrence and distribution of diseases within populations. Its primary goal is to identify genetic variations that influence disease risk and progression.",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/big_teaching/";
-            },},{id: "teaching-md-masud-rana",
-          title: 'Md. Masud Rana',
-          description: "Forensic Genetics",
+            },},{id: "teaching-population-genetics",
+          title: 'Population Genetics',
+          description: "Population genetics is the branch of genetics that studies the distribution and changes in the frequency of alleles (variants of a gene) within populations. It combines principles of genetics, evolution, and statistics to understand how genetic variation evolves and is maintained in populations over time.",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/big_teaching2/";
+            },},{id: "teaching-forensic-genetics",
+          title: 'Forensic Genetics',
+          description: "Forensic genetics is a branch of genetics that applies genetic principles and techniques to legal and criminal investigations. It focuses on analyzing DNA to identify individuals, establish biological relationships, and provide evidence in criminal cases. Forensic genetics plays a crucial role in modern legal systems by ensuring accurate and reliable identification based on genetic evidence.",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/nassu_teaching/";
             },},{
