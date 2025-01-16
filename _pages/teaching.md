@@ -6,7 +6,7 @@ description: Teaching materials
 nav: true
 nav_order: 7
 display_categories: [Beijing Institute of Genomics, Naif Arab University for Security Sciences]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/teaching.md -->
