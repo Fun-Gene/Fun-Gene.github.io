@@ -204,7 +204,6 @@ exclude:
   - _pages/blog.md
   - _posts/
   - assets/jupyter/blog.ipynb
-  - assets/json/resume.json
   - purgecss.config.js
   - README.md
   - readme_preview/
