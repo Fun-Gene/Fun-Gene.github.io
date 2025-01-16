@@ -20,4 +20,12 @@ category: Beijing Institute of Genomics
 related_publications:
 ---
 
+### Birmingham 2024
+At Univ. Birmingham Synergising the Human Brain and Arficial Neural Networks Workshop
+* Why care about SSL, what is SSL
+* TimeTuning: further tuning a DINO model with videos
+* 1-video pretraining: better models than ImageNet from a single video
+* 1-image distillation: achieving 69% top-1 on IN-1k with only 1-image as training inputs 
+* [**Find the slides here**](https://www.dropbox.com/scl/fi/cuv906b5lnszjgg12jgad/Birmingham.pdf?rlkey=3xrmoppxvxqd1kz1iayydj88m&dl=0)
+
 [website](https://ringku09.github.io/)
