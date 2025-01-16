@@ -2,96 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Fan Liu, PhD, Prof.
-    - name: Current Position
-      value: Professor, Naif Arab University for Security Sciences
-    - name: Visiting Address (China)
-      value: Beijing Institute of Genomics, Chinese Academy of Sciences
-    - name: Contact
-      value: Tel: +996-545114868, +31-643272085, +86-13051590969
-    - name: Email
-      value: fliu@nauss.edu.sa
-    - name: ORCID
-      value: http://orcid.org/0000-0001-9241-8161
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
     - name: Languages
-      value: English, German, Chinese
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Genetic Epidemiology
-      institution: Erasmus MC, University Medical Center Rotterdam, Netherlands
-      year: 2004-2009
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Thesis: Methodological Approaches to Study the Genetics of Dementia and Cognitive Function
-        - ISBN: 978-90-8559-496-3
-    - title: MSc and DSc in Genetic Epidemiology
-      institution: Erasmus MC, University Medical Center Rotterdam, Netherlands
-      year: 2002-2004
-    - title: BSc in Clinical Medicine
-      institution: Cheeloo College of Medicine, Shandong University, China
-      year: 1994-1999
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor
-      institution: Naif Arab University for Security Sciences, Saudi Arabia
-      year: 2022-present
-    - title: Professor
-      institution: Beijing Institute of Genomics, Chinese Academy of Sciences, China
-      year: 2015-2022
-    - title: Assistant Professor
-      institution: Erasmus MC, University Medical Center Rotterdam, Netherlands
-      year: 2013-2015
-    - title: Postdoctoral Researcher
-      institution: Erasmus MC, University Medical Center Rotterdam, Netherlands
-      year: 2009-2012
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
 
-- title: Research Areas
-  type: list
-  contents:
-    - Forensic DNA Phenotyping
-    - Molecular Epidemiology
-    - Human Appearance Traits
-    - Precision Medicine
-    - Bioinformatics
-    - Biostatistics
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
 
-- title: Grants
-  type: list
-  contents:
-    - National Natural Science Foundation: "Micro-evolution process of multi-gene mechanism," NO.91631307
-    - National Development Plan: "Risk factors and mechanisms for adult type 2 diabetes mellitus," NO.2016YFC1304900
-    - “1000-talent plan” for young investigators, China, 3,000,000 Chinese Yuan
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
 
-- title: Publications
-  type: list
-  contents:
-    - Published over 100 SCI papers
-    - Total citations: 4,000+
-    - H-index: 35
-    - Notable journals: Nature Genetics, Nature Communications, American Journal of Human Genetics
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
 
-- title: Patents
-  type: list
+- title: Open Source Projects
+  type: time_table
   contents:
-    - METHOD FOR PREDICTION OF HUMAN IRIS COLOR (WO2011107973)
-    - METHOD AND SYSTEM FOR OBTAINING INDIVIDUAL AGE OF CHINESE MALES (CN201710899133.0)
-
-- title: Software
-  type: list
-  contents:
-    - AgePrediction: Predict age from CpGs
-    - HIrisPlex: Predict eye and hair color from SNPs
-    - InferC: Infer genetic ancestry of Chinese from SNPs
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
+    - year: 1921
       items:
-        - Listed in World Ranking Top 2% Scientists (Legal Medicine)
-    - year: 2012
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
       items:
-        - EUR Fellowship, 135,000 Euro
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
