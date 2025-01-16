@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Curriculum Vitae of Professor Liu Fan",
+          description: "Curriculum Vitae of Professor Liu Fan, PhD.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
