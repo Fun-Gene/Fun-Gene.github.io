@@ -22,7 +22,7 @@ horizontal: true
   <!-- Generate cards for each lecture -->
   {% if page.horizontal %}
   <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
+    <div class="row row-cols-1">
     {% for lecture in sorted_teaching %}
       {% include teaching_horizontal.liquid %}
     {% endfor %}
