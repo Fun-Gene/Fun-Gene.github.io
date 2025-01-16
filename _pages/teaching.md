@@ -2,10 +2,10 @@
 layout: page
 title: teaching
 permalink: /projects/
-description: Team and alumni
+description: Teaching materials
 nav: true
 nav_order: 2
-display_categories: [Current (MSc), Current (PhD), Alumni (MSc), Alumni (PhD)]
+display_categories: [Beijing Institute of Genomics, Naif Arab University for Security Sciences]
 horizontal: false
 ---
 
