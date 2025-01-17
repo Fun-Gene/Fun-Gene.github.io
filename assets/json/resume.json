@@ -94,14 +94,5 @@
       "language": "Chinese",
       "fluency": "Native"
     }
-  ],
-  "projects": [
-    {
-      "name": "Forensic DNA Phenotyping Models",
-      "summary": "Developed molecular models to predict human attributes like eye color, hair color, and ancestry for forensic applications.",
-      "highlights": [
-        "Applications in various forensic domains worldwide."
-      ]
-    }
   ]
 }
